@@ -20,7 +20,7 @@ img {
 }
 
 header {
-  background: url(/bootstrap/image/Rectangle1.jpg) no-repeat;
+  background: url(../image/Rectangle1.jpg) no-repeat;
   margin: 0;
   padding: 0;
 
@@ -145,14 +145,14 @@ p.text {
 =============================================*/
 
 .bg2 {
-  background: url(/bootstrap/image/Rectangle6.png) no-repeat;
+  background: url(../image/Rectangle6.png) no-repeat;
   max-width: 100%;
   background-size: cover;
   margin-top: -230px;
 }
 
 .bg3 {
-  background: url(/bootstrap/image/bigstock-sport-fitness-weightlifting--223790512.png);
+  background: url(../image/bigstock-sport-fitness-weightlifting--223790512.png);
   background-size: cover;
   max-width: 100%;
 }
@@ -224,7 +224,7 @@ p.text {
 }
 
 .block-four {
-  background: url(/bootstrap/image/Rectangle6copy.png) no-repeat;
+  background: url(../image/Rectangle6copy.png) no-repeat;
   background-size: cover;
   padding-bottom: 80px;
   max-width: 100%;
@@ -271,7 +271,7 @@ span.numbers {
  *
  */
 .block-sex {
-  background: url(/bootstrap/image/whight.png)no-repeat;
+  background: url(../image/whight.png)no-repeat;
   padding-bottom: 180px;
   padding-top: 80px;
   background-size: cover;
@@ -301,7 +301,7 @@ span.numbers {
 }
 
 .bg8 {
-  background: url(/bootstrap/image/first.png) no-repeat;
+  background: url(../image/first.png) no-repeat;
   padding-bottom: 100px;
   max-width: 100%;
   background-size: cover;
@@ -423,19 +423,19 @@ span.numbers {
   margin-bottom: 40px;
 }
 .card-calc {
-  background: url(/bootstrap/image/CALC.png);
+  background: url(../image/CALC.png);
   height: 33.333333%;
   background-size: cover;
 }
 
 .card-mark {
-  background: url(/bootstrap/image/METKA.png);
+  background: url(../image/METKA.png);
   height: 33.333333%;
   background-size: cover;
 }
 
 .card-folder {
-  background: url(/bootstrap/image/PAPKA.png);
+  background: url(../image/PAPKA.png);
   height: 33.333333%;
   background-size: cover;
 }
