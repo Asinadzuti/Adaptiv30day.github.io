@@ -1106,6 +1106,9 @@ li {
     padding-right: 50px;
     padding-left: 50px;
   }
+  .navbar {
+    padding-bottom: 0px;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -1185,6 +1188,9 @@ li {
 }
 
 @media (max-width: 575px) {
+  .navbar {
+    padding-bottom: 0px;
+  }
   .navbar-top {
     padding-left: 0px;
   }
@@ -1270,5 +1276,9 @@ li {
   .nav-fill li {
     margin-left: 0px;
   }
+}
+
+.sanya {
+  color: #000000;
 }
 /*# sourceMappingURL=main.css.map */
